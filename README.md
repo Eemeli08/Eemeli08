@@ -1,16 +1,27 @@
-## Hi there 👋
+# CV – Eemeli Puttonen
 
-<!--
-**Eemeli08/Eemeli08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tietoa minusta
 
-Here are some ideas to get you started:
+Olen motivoitunut ja jatkuvasti kehittyvä ohjelmistokehittäjä, joka haluaa oppia mahdollisimman paljon kaikista koodauskielistä.
+Olin ylä-asteella TET- työharjoittelussa koodausfirmassa nimeltään Magister Solutions, opettelin siellä lähinnä Pythonia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Osaamiset
+
+Osaan koodata Pythonia, C# ja sql:llää tällä hetkellä, mutta olen aina motivoitunut oppia lisää.
+
+---
+
+
+
+## Github-projekti
+
+https://github.com/Gradia-Ohjelmistokehitys-2023/graafiset-k-ytt-liittym-t-Eemeli08
+
+---
+
+##  Yhteystiedot
+
+- Sähköposti: gr302633@gradia.fi
+- GitHub: https://github.com/Eemeli08
