@@ -3,7 +3,7 @@
 ## Tietoa minusta
 
 Olen motivoitunut ja jatkuvasti kehittyvä ohjelmistokehittäjä, joka haluaa oppia mahdollisimman paljon kaikista koodauskielistä.
-Olin ylä-asteella TET- työharjoittelussa koodausfirmassa nimeltään Magister Solutions, opettelin siellä lähinnä Pythonia.
+Olin ylä-asteella TET- työharjoittelussa koodausfirmassa nimeltään Magister Solutions, opettelin siellä lähinnä Pythonia. Olen myös kiinnostunut kaikesta teknologiasta ja sen tutkimisesta, minulla on suhteellisen paljon kokemusta myös tietokoneista ja muista teknologia laitteista.
 
 ---
 
