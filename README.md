@@ -1,5 +1,5 @@
 # CV – Eemeli Puttonen
-
+Haen TOP-paikkaa It- alalta, ajankohta: 5.8-28.9.2025
 ---
 
 ## 📞 Yhteystiedot
