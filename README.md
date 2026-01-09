@@ -23,11 +23,12 @@ Haen TOP-paikkaa It- alalta, ajankohta: 5.8-28.9.2025
 
 **TET- harjoittelija – Magister Solutions**  
 
+**TOP- harjoittelija – Gradia Digipalvelut (Digitutori)**  
 ---
 
 ## 💻 ATK-taidot
 
-- Microsoft Office (Word, Excel, PowerPoint): hyvä  
+- Microsoft Office (Word, Excel, PowerPoint, etc.): hyvä  
 - Sosiaalinen media (Instagram, TikTok): aktiivinen käyttäjä
 - Koodaustaidot (C¤, sql, python, graafiset käyttöliittymät): hyvä
 
