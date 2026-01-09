@@ -23,6 +23,7 @@
 **TET- harjoittelija – Magister Solutions**  
 
 **TOP- harjoittelija – Gradia Digipalvelut (Digitutori)**  
+
 ---
 
 ## 💻 ATK-taidot
