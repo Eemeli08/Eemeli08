@@ -24,6 +24,8 @@
 
 **TOP- harjoittelija – Gradia Digipalvelut (Digitutori)**  
 
+**TOP- harjoittelija – Jyväskylän kirjastot ja jasoasunnot (Datataituri)**  
+
 ---
 
 ## 💻 ATK-taidot
