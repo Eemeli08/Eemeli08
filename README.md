@@ -33,7 +33,7 @@ Hei. Olen Eemeli Puttonen, ohjelmistokehittäjäksi opiskeleva Jyväskyläläine
 
 Profiilistani löytyy repositoryja, joissa näkyy koodaustyöni jälki. 
 
-Suosittelen katsomaan erityisesti **[Kahvitauko-ohjelma](https://github.com)**. Olen siitä erittäin ylpeä, ja se on mielestäni teknisesti sekä rakenteellisesti hyvin tehty projekti.
+Suosittelen katsomaan erityisesti **[Kahvitauko-ohjelman]([https://github.com](https://github.com/Eemeli08/Ohjelmiston-toteutusprojekti-Kahvitauko/tree/main/Kahvitauko-ohjelma))**. Olen siitä erittäin ylpeä, ja se on mielestäni teknisesti sekä rakenteellisesti hyvin tehty projekti.
 
 ## 💻 ATK-taidot
 
