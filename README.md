@@ -19,22 +19,27 @@ Hei. Olen Eemeli Puttonen, ohjelmistokehittäjäksi opiskeleva Jyväskyläläine
 
 ## 💼 Työkokemus
 
-**TET- harjoittelija – K-Rauta yläasteen 9 luokalla**  
+**TET- harjoittelija (2vk) – K-Rauta yläasteen 9 luokalla**  
 
-**TET- harjoittelija – Magister Solutions**  
+**TET- harjoittelija (1vk) – Magister Solutions**  
 
-**TOP- harjoittelija – Gradia Digipalvelut (Digitutori)**  
+**TOP- harjoittelija Syksy 2026 (2kk) – Gradia Digipalvelut (Digitutori)**  
 
-**TOP- harjoittelija – Jyväskylän kirjastot ja jasoasunnot (Datataituri)**  
+**TOP- harjoittelija Kevät 2026 (2kk) – Jyväskylän kirjastot ja jasoasunnot (Datataituri)**  
 
 ---
+
+## 💻 Projektit ja näytöt
+
+Profiilistani löytyy repositoryja, joissa näkyy koodaustyöni jälki. 
+
+Suosittelen katsomaan erityisesti **[Kahvitauko-ohjelma](https://github.com)**. Olen siitä erittäin ylpeä, ja se on mielestäni teknisesti sekä rakenteellisesti hyvin tehty projekti.
 
 ## 💻 ATK-taidot
 
 - Microsoft Office (Word, Excel, PowerPoint, etc.): hyvä  
 - Sosiaalinen media (Instagram, TikTok): aktiivinen käyttäjä
 - Koodaustaidot (C¤, sql, python, graafiset käyttöliittymät): hyvä
-
 ---
 
 ## 🏃 Harrastukset
