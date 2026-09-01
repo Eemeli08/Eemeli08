@@ -1,6 +1,6 @@
 # CV – Eemeli Puttonen
 ---
-Hei. Olen Eemeli Puttonen, ohjelmistokehittäjäksi opiskeleva Jyväskyläläinen nuori, olen kolmannen vuoden opiskelija.
+Hei. Olen Eemeli Puttonen, ohjelmistokehittäjäksi opiskeleva Jyväskyläläinen nuori, olen kolmannen vuoden opiskelija. Haen työssäoppimispaikkaa 5.10.2026-12.1.2027 väliselle ajalle.
 
 ## 📞 Yhteystiedot
 
