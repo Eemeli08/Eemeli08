@@ -45,4 +45,6 @@ Suosittelen katsomaan erityisesti **[Kahvitauko-ohjelman]([https://github.com](h
 ## 🏃 Harrastukset
 
 - Jalkapallon pelaaminen
-- Elokuvien katselu  
+- Elokuvien katselu
+- Pelaaminen
+- Teknologia
