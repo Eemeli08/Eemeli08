@@ -13,7 +13,7 @@ Hei. Olen Eemeli Puttonen, ohjelmistokehittäjäksi opiskeleva Jyväskyläläine
 
 ## 🎓 Koulutus
 
-**Opiskelen tällä hetkellä Gradialla ohjelmistokehittäjäksi.**
+**Opiskelen tällä hetkellä Gradialla Tieto- ja viestintätekniikan tutkinnolla ohjelmistokehittäjäksi.**
 
 ---
 
